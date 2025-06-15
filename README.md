@@ -1,22 +1,40 @@
 <h1 align="center">I'm <strong>Sivamani R</strong></h1>
-<h3 align="center">Data Analyst | SQL | Python | Power BI | Tableau </h3>
+<h3 align="center">GenAI developer | Python full stack developer | SQL | Python | React.js | Flask API | Langchain | langflow | RAG | Rest API | Docker | Git | </h3>
 
 ---
 
 ### 👨‍💻 About Me  
-- 📊 Passionate **Data Analyst** eager to explore insights and drive business decisions  
-- 🔍 Skilled in **SQL, Python, Power BI, Tableau, and Excel** for data analysis and visualization  
-- 🚀 Constantly improving my workflow by integrating **automation and machine learning**  
-- 💡 Love uncovering patterns and trends to solve real-world business problems  
+- 💻 Passionate **Full Stack Developer** with a strong foundation in **React, Node.js, Python, and Flask**  
+- 🤖 Hands-on experience in **AI-powered web development** using modern LLM frameworks  
+- 🛠️ Skilled in building **scalable, user-centric applications** with responsive UI and robust backend  
+- 🚀 Seeking an entry-level opportunity to contribute technical skills and grow as a developer  
 
 ### 🏆 My Skillset  
 <p align="center">
+  <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/sql.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"/>
+  <img height="50" src="https://img.icons8.com/ios-filled/50/000000/flask.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/api.png"/>
+  <img height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png"/> 
+  <img height="50" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/docker.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/github--v1.png"/>
 </p>
+
+---
+
+### 🧠 Core Skills  
+
+- **AI Development:** Langflow · OpenAI GPT · RAG · LangChain · LLM Orchestration  
+- **Frontend:** React.js · JavaScript · HTML5 · CSS3 · Bootstrap · Streamlit  
+- **Backend:** Node.js · Flask · REST APIs · SQLAlchemy · Jinja2 · WTForms  
+- **Data & Analytics:** Python (Pandas, NumPy) · SQL · Tableau · Data Visualization · Excel Dashboards  
+- **DevOps & Tools:** Git · GitHub · Docker  
 
 ---
 ## 🚀 Featured Projects
