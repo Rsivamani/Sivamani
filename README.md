@@ -42,9 +42,47 @@
 <table>
   <tr>
     <td width="45%" align="center">
+      <h3>📊 Multi-AI agent system using Langflow </h3>
+      <p> Developed a multi-agent AI system using RAG with intelligent routing for accurate query resolution.</p>
+      <p><b> Tools Used:</b> Python, Langflow, OpenAI GPT, RAG architecture, Streamlit</p>
+      <a href="https://github.com/Rsivamani/Multi-AI-agent-system-using-Langflow">
+        <img src="https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge">
+      </a>
+    </td>
+    <td width="45%" align="center">
+      <h3>E-Commerce Website</h3>
+      <p> Developed a fully responsive e-commerce web application using modern full-stack technologies</p>
+      <p><b>Tools Used:</b> HTML, CSS, JavaScript, React.js, Node.js, Axios, REST APIs </p>
+      <a href="https://github.com/Rsivamani/Ecommerce-Website">
+        <img src="https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge">
+      </a>
+    </td>
+  </tr>
+  
+  <tr>
+<!--      -->
+    <td width="45%" align="center">
+      <h3>Marketplace Website using Flask </h3>
+      <p>Developed relational user and item schemas to enforce data integrity, automate budget control, and manage ownership workflows.</p>
+      <p><b>Tools Used:</b> HTML, JavaScript, SQLAlchemy, Python, Flask, Jinja, Bootstrap</p>
+      <a href="https://github.com/Rsivamani/Marketplace-Website">
+        <img src="https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge">
+      </a>
+    </td>
+    <td width="45%" align="center">
+      <h3>🛍️ AI agent using Langchain</h3>
+      <p>Developed an AI-powered research assistant agent capable of answering queries, leveraging LLMs and external tools.</p>
+      <p><b>Tools Used:</b> Python, LangChain, OpenAI GPT , Wikipedia API, DuckDuckGo Search, Pydantic, </p>
+      <a href="https://github.com/Rsivamani/AI-agent-with-python">
+        <img src="https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge">
+      </a>
+    </td>
+  </tr>
+ <tr>
+    <td width="45%" align="center">
       <h3>📊 Sales Analytics & Forecasting Dashboard</h3>
       <p> Analyze and forecast sales trends for better decisions.</p>
-      <p><b>Tools Used:</b> Excel, Power BI</p>
+      <p><b>Tools Used:</b> SQL, Excel, Power BI</p>
       <a href="https://github.com/Rsivamani/Sales-Analytics-and-Forecasting-Dashboard-">
         <img src="https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge">
       </a>
@@ -63,7 +101,7 @@
     <td width="45%" align="center">
       <h3>🛍️ E-commerce EDA</h3>
       <p> identify revenue trends, and optimize marketing strategies.</p>
-      <p><b>Tools Used:</b> Python, Pandas</p>
+      <p><b>Tools Used:</b> Python, Pandas,SQL, Tableau</p>
       <a href="https://github.com/Rsivamani/E-commerce-EDA">
         <img src="https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge">
       </a>
@@ -71,7 +109,7 @@
     <td width="45%" align="center">
       <h3>🤖 Automated Data Analysis & Tag Extraction</h3>
       <p> Automate data analysis and extract relevant text tags.</p>
-      <p><b>Tools Used:</b> Python, Pandas</p>
+      <p><b>Tools Used:</b> Python, Pandas,Excel</p>
       <a href="https://github.com/Rsivamani/Automated-Data-Analysis-Text-Tag-Extraction-">
         <img src="https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge">
       </a>
