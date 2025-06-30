@@ -1,27 +1,24 @@
 <h1 align="center">I'm <strong>Sivamani R</strong></h1>
-<h3 align="center">GenAI & Python full stack developer | SQL | Python | React.js | Flask API | Langchain | langflow | RAG | Rest API | Docker | Git | </h3>
+<h3 align="center">Gen AI & Python Full-Stack Developer | Python | React.js | FastAPI | LangChain | LlamaIndex | Streamlit | Hugging Face | SQL | Flask | Bootstrap | VIT Graduate</h3>
 
 ---
 
-### 👨‍💻 About Me  
-- 💻 Passionate **Full Stack Developer** with a strong foundation in **React, Node.js, Python, and Flask**  
-- 🤖 Hands-on experience in **AI-powered web development** using modern LLM frameworks  
-- 🛠️ Skilled in building **scalable, user-centric applications** with responsive UI and robust backend  
-- 🚀 Seeking an entry-level opportunity to contribute technical skills and grow as a developer  
+### About Me
+- Full Stack Developer with practical experience in building applications using **React.js, FastAPI, Python, and Flask**
+- Specialized in **LLM-integrated web development**, with hands-on projects in **document-based Q&A and NLP-driven workflows**
+- Proficient in developing **responsive user interfaces** and **robust backend systems**, with a focus on clean architecture, performance, and usability
 
 ### 🏆 My Skillset  
 <p align="center">
   <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img height="50" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" 
   <img height="50" src="https://img.icons8.com/color/48/000000/python.png"/>
   <img height="50" src="https://img.icons8.com/ios-filled/50/000000/flask.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/api.png"/>
   <img height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png"/> 
   <img height="50" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/docker.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/git.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/github--v1.png"/>
 </p>
@@ -29,13 +26,11 @@
 ---
 
 ### 🧠 Core Skills  
-
-- **AI Development:** Langflow · OpenAI GPT · RAG · LangChain · LLM Orchestration  
-- **Frontend:** React.js · JavaScript · HTML5 · CSS3 · Bootstrap · Streamlit  
-- **Backend:** Node.js · Flask · REST APIs · SQLAlchemy · Jinja2 · WTForms  
-- **Data & Analytics:** Python (Pandas, NumPy) · SQL · Tableau · Data Visualization · Excel Dashboards  
-- **DevOps & Tools:** Git · GitHub · Docker  
-
+- **Generative AI:** LangChain | LlamaIndex | Ollama | Hugging Face | Prompt Engineering | RAG  
+- **Frontend:** React.js | JavaScript (ES6+) | Bootstrap | HTML5 | CSS | Jinja2  
+- **Backend:** Python | Flask | FastAPI | REST APIs | Swagger  
+- **Data Analytics:** Pandas | NumPy | Matplotlib | Seaborn | MySQL | Excel | EDA | KPI Dashboards | Tableau  
+- **Database & Tools:** SQLite | SQLAlchemy | Git | GitHub | Postman
 ---
 ## 🚀 Featured Projects
 
