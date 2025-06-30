@@ -1,5 +1,5 @@
 <h1 align="center">I'm <strong>Sivamani R</strong></h1>
-<h3 align="center">GenAI developer | Python full stack developer | SQL | Python | React.js | Flask API | Langchain | langflow | RAG | Rest API | Docker | Git | </h3>
+<h3 align="center">GenAI & Python full stack developer | SQL | Python | React.js | Flask API | Langchain | langflow | RAG | Rest API | Docker | Git | </h3>
 
 ---
 
