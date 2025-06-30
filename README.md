@@ -50,13 +50,13 @@
       </a>
     </td>
     <td width="45%" align="center">
-      <h3>E-Commerce Website</h3>
-      <p> Developed a fully responsive e-commerce web application using modern full-stack technologies</p>
-      <p><b>Tools Used:</b> HTML, CSS, JavaScript, React.js, Node.js, Axios, REST APIs </p>
-      <a href="https://github.com/Rsivamani/Ecommerce-Website">
-        <img src="https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge">
-      </a>
-    </td>
+  <h3>React Chat Assistant</h3>
+  <p>Built a lightweight chat assistant interface using React.js with predefined responses, showcasing state management and conditional rendering.</p>
+  <p><b>Tools Used:</b> React.js, JavaScript, HTML5, CSS3, Fetch API</p>
+  <a href="https://github.com/Rsivamani/Chatbot-with-ReactJS/tree/main">
+    <img src="https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge">
+  </a>
+</td>
   </tr>
   
   <tr>
