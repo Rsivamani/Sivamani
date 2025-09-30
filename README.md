@@ -1,14 +1,16 @@
 <h1 align="center">I'm <strong>Sivamani R</strong></h1>
-<h3 align="center">Gen AI & Python Full-Stack Developer | Python | React.js | FastAPI | LangChain | LlamaIndex | Streamlit | Hugging Face | SQL | Flask | Bootstrap | VIT Graduate</h3>
+<h3 align="center">Python Full-Stack Developer | Python | React.js | FastAPI | MYSQL | Flask |REST API| VIT Graduate</h3>
 
 ---
 
 ### About Me
-- Full Stack Developer with practical experience in building applications using **React.js, FastAPI, Python, and Flask**
-- Specialized in **LLM-integrated web development**, with hands-on projects in **document-based Q&A and NLP-driven workflows**
-- Proficient in developing **responsive user interfaces** and **robust backend systems**, with a focus on clean architecture, performance, and usability
+I’m a Python Full Stack Developer skilled in **React.js, FastAPI, Flask, and SQL databases**.  
+I specialize in building **scalable web apps, RESTful APIs, and LLM-powered solutions**.  
+Passionate about combining **backend robustness with responsive frontend design**.  
+Currently seeking an **entry-level Python/Full Stack Developer role** to contribute to real-world projects.  
 
-### 🏆 My Skillset  
+
+###  My Skillset  
 <p align="center">
   <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img height="50" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" 
@@ -18,21 +20,20 @@
   <img height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png"/> 
   <img height="50" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/git.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/github--v1.png"/>
 </p>
 
 ---
 
-### 🧠 Core Skills  
-- **Generative AI:** LangChain | LlamaIndex | Ollama | Hugging Face | Prompt Engineering | RAG  
-- **Frontend:** React.js | JavaScript (ES6+) | Bootstrap | HTML5 | CSS | Jinja2  
+##  Skills  
+
 - **Backend:** Python | Flask | FastAPI | REST APIs | Swagger  
-- **Data Analytics:** Pandas | NumPy | Matplotlib | Seaborn | MySQL | Excel | EDA | KPI Dashboards | Tableau  
-- **Database & Tools:** SQLite | SQLAlchemy | Git | GitHub | Postman
----
-## 🚀 Featured Projects
+- **Data Analytics:** Pandas | NumPy | Matplotlib | Seaborn | MySQL | SQLite | Excel | EDA | KPI Dashboards | Tableau  
+- **Database & Tools:** SQLAlchemy | Git | GitHub | Postman  
+- **Frontend:** React.js | JavaScript | HTML5 | CSS  
+
+##  Featured Projects
 
 <table>
   <tr>
